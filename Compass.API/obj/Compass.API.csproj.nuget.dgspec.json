@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JS\\Dashboard\\Api\\Compass\\Compass.API\\Compass.API.csproj": {}
+    "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.API\\Compass.API.csproj": {}
   },
   "projects": {
-    "D:\\JS\\Dashboard\\Api\\Compass\\Compass.API\\Compass.API.csproj": {
+    "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.API\\Compass.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.API\\Compass.API.csproj",
+        "projectUniqueName": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.API\\Compass.API.csproj",
         "projectName": "Compass.API",
-        "projectPath": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.API\\Compass.API.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.API\\obj\\",
+        "projectPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.API\\Compass.API.csproj",
+        "packagesPath": "C:\\Users\\Zozipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zozipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj": {
-                "projectPath": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj"
+              "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj": {
+                "projectPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj"
               },
-              "D:\\JS\\Dashboard\\Api\\Compass\\Services\\Compass.Services.csproj": {
-                "projectPath": "D:\\JS\\Dashboard\\Api\\Compass\\Services\\Compass.Services.csproj"
+              "C:\\Users\\Zozipo\\Downloads\\api(5)\\Services\\Compass.Services.csproj": {
+                "projectPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Services\\Compass.Services.csproj"
               }
             }
           }
@@ -65,6 +65,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -88,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj": {
+    "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj",
         "projectName": "Compass.Data",
-        "projectPath": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\obj\\",
+        "projectPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj",
+        "packagesPath": "C:\\Users\\Zozipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zozipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,21 +188,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\JS\\Dashboard\\Api\\Compass\\Services\\Compass.Services.csproj": {
+    "C:\\Users\\Zozipo\\Downloads\\api(5)\\Services\\Compass.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JS\\Dashboard\\Api\\Compass\\Services\\Compass.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Services\\Compass.Services.csproj",
         "projectName": "Compass.Services",
-        "projectPath": "D:\\JS\\Dashboard\\Api\\Compass\\Services\\Compass.Services.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\JS\\Dashboard\\Api\\Compass\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Services\\Compass.Services.csproj",
+        "packagesPath": "C:\\Users\\Zozipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zozipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -212,8 +216,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj": {
-                "projectPath": "D:\\JS\\Dashboard\\Api\\Compass\\Compass.Data\\Compass.Data.csproj"
+              "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj": {
+                "projectPath": "C:\\Users\\Zozipo\\Downloads\\api(5)\\Compass.Data\\Compass.Data.csproj"
               }
             }
           }
@@ -252,7 +256,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
